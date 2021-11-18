@@ -1,0 +1,31 @@
+_repo: Belshazzar-A-Tale-of-the-Fall-of-Babylon_66745
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Zigler, Lee Woodward
+    gutenberg_agent_id: '53940'
+    url: http://www.gutenberg.org/2009/agents/53940
+  - agent_name: Laub, J. E.
+    gutenberg_agent_id: '53941'
+    url: http://www.gutenberg.org/2009/agents/53941
+creator:
+  author:
+    agent_name: Davis, William Stearns
+    alias: Davis, W. S. (William Stearns)
+    birthdate: 1877
+    deathdate: 1930
+    gutenberg_agent_id: '1557'
+    url: http://www.gutenberg.org/2009/agents/1557
+    wikipedia: https://en.wikipedia.org/wiki/William_Stearns_Davis
+description: ''
+gutenberg_issued: '2021-11-15'
+identifiers:
+  gutenberg: '66745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Belshazzar: A Tale of the Fall of Babylon'
+url: http://www.gutenberg.org/ebooks/66745
